@@ -1,0 +1,22 @@
+<script>
+  src="upload"
+      #; fasta.lang
+      #; sequence.file
+    upload( sequence( 0 = 1)
+      #; config.seq
+      #; cpp.seq
+         upload.source( 1, = 2,)
+      #  config.mol
+         fasta = ( file = 2, 4)
+           fasta.info( seq, = source)
+      #; index.config( = 2, 7,)
+        upload.mol ( java_source( = mol
+     src="main_adresses"
+        fasta.java(convert.id)
+         fileConvert(fasta, to ,pdb)
+      #; convert.source 
+         java = ( compiler.info)
+       convert.file ( = print.java
+          resource = ( compiler = java
+
+        
